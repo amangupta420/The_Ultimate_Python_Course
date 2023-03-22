@@ -54,16 +54,25 @@ list1 = list is basically collection
 of diffrent data element.
 """
 print(list1)
-# tuple1 = [ parrot , \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\///////////////////////////////////////////
-# lion ,tiger ,]
-# """
-# tuple = tuple is basically collection
-# of diffrent data element.
-# but this is immutable.
-# """
-# print(tuple1)
-# dict1 = {"name":"Aman", "age":16, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\///////////////////////////////////////////
-#  "canvote":"true"}
-# print(dict1)
 
+
+tuple1 = ("parrot", "lion", "tiger")
+"""
+tuple = tuple is basically collection of diffrent data element but it is immutable.
+Immutable = A Thing Which can not be Changed.
+"""
+print(tuple1)
+
+dict1 = {
+    "name":"Aman", 
+    "age":16, 
+    "canvote":True
+}
+
+print(dict1)
+"""
+Dictionary = dictionary is collection of key value pairs here a key acts as a variable and a value acts as value of the variable.
+- Key cannot be a Boolean
+- Value can be any datatype that exists in python.
+"""
 print("!!!!!!!!!!!!!!!!!!!!!   END   !!!!!!!!!!!!!!!!!!!!!")
