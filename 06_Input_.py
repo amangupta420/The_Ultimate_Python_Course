@@ -1,6 +1,6 @@
 print ("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!   START    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
 
-#  INPUT = We can take user input directly by input() Function This input function gives a return value as string/character hence we have to pass that into a variable.
+# INPUT = We can take user input directly by input() Function This input function gives a return value as string character hence we have to pass that into a variable to store it.
 
 a = input("enter your name:")
 print("my name is", a)
@@ -8,23 +8,23 @@ print("my name is", a)
 x = input("Enter your first number: ")
 y = input("Enter your second number: ")
 
-# print(x + y) !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# print(x + y)
 """
-If you entered your first number is: 12.
-And you entered your second number is: 88.
-Then output is: 1288.
-Because we learned in previous chapter python able to add integers not strings and our input is in string so python interpreter not able to add the string. 
-
+If The First Number Entered by You is: 12.
+And the Second Number Entered by You is: 88.
+Then output will be: 1288.
+Because we learned in previous chapter That python is able to add integers not strings and our input is in a string so python interpreter is not able to add the string. 
 """
 
 print(int(x)  +  int(y))
 
 """
-If you entered your first number is: 12.
-And you entered your second number is: 88.
-so we use a python function int()
-Then output is  100
+Now :-
+If The First Number Entered by You is: 12.
+And The Second Number Entered by You is: 88.
+so we use a built in python function int()
+Then output will be: 100
 """
-# You can also use many types of opreters.
+# You can also use many different types of operators.
 
 print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!   END    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
