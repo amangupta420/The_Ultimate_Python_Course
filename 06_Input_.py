@@ -22,8 +22,8 @@ print(int(x)  +  int(y))
 Now :-
 If The First Number Entered by You is: 12.
 And The Second Number Entered by You is: 88.
-so we use a built in python function int()
 Then output will be: 100
+so we use a built in python function int()
 """
 # You can also use many different types of operators.
 
