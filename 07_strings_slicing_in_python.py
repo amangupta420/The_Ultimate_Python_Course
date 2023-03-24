@@ -28,9 +28,10 @@ print("----------------------------------------------------------------- SLICING
 print(fruit[0:5])    # Printing the 'mango'
 
 # [x:5] if x is empty then python will replace it with a 0.
-print(fruit[ :4])
-print(fruit[ :3])
-print(fruit[ :2]) 
+print(fruit[0:4]) # Including 0 but not 4. 
+print(fruit[0:3]) #  Including 0 but not 3.
+print(fruit[ :2])
+print(fruit[0:1])
 
 # [0:x] if x is empty here then python will replace it with -1(length of the string)
 print(fruit[0: ])
@@ -49,10 +50,21 @@ Exp :- "Aman"
 veg = ("potato")
 potato = len("veg")
 
-print(veg[ :  ])
-print(veg[ :-1])
-print(veg[ :-2])
-print(veg[ :-3])
-print(veg[ :-4])
-print(veg[ :-5])
-print(veg[ :-6])
+print(veg[0:  ])
+print(veg[0:-1])
+print(veg[0:-2])
+print(veg[0:-3])
+print(veg[0:-4])
+print(veg[0:-5])
+print(veg[0:-6])
+
+print("-------------------------------------------------------------- QUICK QUIZ  ----------------------------------------------------------------")
+
+nm = ("harry")
+print(nm[-4:-2])
+
+# OUTPUT= ar
+
+print("---------------------------------------------------------  LOOP THROUGH A STRING  ---------------------------------------------------------")
+# LOOP THROUGH A STRING = Strings are arrays and arrays are iterible. Thus we can loop thrugh strings.
+
