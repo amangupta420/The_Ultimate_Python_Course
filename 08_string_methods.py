@@ -31,7 +31,7 @@ print("------------------------------------------------------------------   SPLI
 print(a.split(" ")) 
 
 print("----------------------------------------------------------------   CAPITALIZE  ----------------------------------------------------------------------")
-# CAPITALIZE = Capitalize method is used for turning in capital letter of our blogheadings.
+# CAPITALIZE = Capitalize Methode is used to Capitalize First Letter of a String and Decapitalize all non-first Letters.
 
 blogheading = ("introduction tO my nEw propeRty")
 print(blogheading.capitalize())
