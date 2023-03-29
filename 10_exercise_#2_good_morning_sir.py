@@ -17,3 +17,5 @@ print(timestamp)
 timestamp = time.strftime('%S')
 print(timestamp)
 # https://docs.python.org/3/library/strftimetime.html#time.
+
+print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!    END    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
