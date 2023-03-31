@@ -49,8 +49,29 @@ if "red" in color:
 else:
     print("no")
 
-if "black" in color:
+if "bla" in"black":
     print("yes")
 else:
     print("no")
 
+# Printing elements within a particular range:
+
+print(color)
+print(color[:])
+print(color[1:])
+print(color[1:4])
+
+print("----------------------------------------------------------------   JUMP  INDEX   ---------------------------------------------------------------------")
+
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, ]
+print(numbers[:])
+print(numbers[0:15])
+# Printing every 3rd conscutive value within a given range.
+print(numbers[1:15:3])
+
+print("----------------------------------------------------------------   LIST COMPREHENSION   ---------------------------------------------------------------------")
+
+list = [i*i for i in range(100) if i%2==0]
+print(list)
+
+print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!    END    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
