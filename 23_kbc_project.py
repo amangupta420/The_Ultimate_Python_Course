@@ -150,16 +150,16 @@ if(answer2==ans):
 elif(answer2==obj):
     print("ok")
 
-print("Your first question is:\nWho is the founder of boat ?\n1.mr.elun musk           2.mr.bill gates\n3.mr.aman gupta          4.mr.gaotam adani")
-correctanswer = ("mr.aman gupta")
-wronganswer = ("1.mr.elun musk, 2.mr.bill gates, 4.mr.gaotam adani")
+print("Your ninth question is:\nWhat is the name of Ram,s father?\n1.mr.kaotilya           2.mr.batasa vale\n3.mr.dasrath          4.mr.mahakaal")
+correctanswer = ("mr.dasrath")
+wronganswer = ("1.mr.kaotilya, 2.mr.batasa vale, 4.mr.mahakaal")
 answer1 = (input("Please enter your answer:"))
 if(answer1==correctanswer):
-    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑5000🎉🤑 rupees.")
+    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑10lakhs🎉🤑 rupees.")
 elif(answer1==wronganswer):
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")           
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 10lakhs RUPEES.")           
 else:
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 10lakhs RUPEES.")
 
 answer2 = (input("Do you want life line yes/no:"))
 ans = ("yes")
@@ -169,16 +169,16 @@ if(answer2==ans):
 elif(answer2==obj):
     print("ok")
 
-print("Your first question is:\nWho is the founder of boat ?\n1.mr.elun musk           2.mr.bill gates\n3.mr.aman gupta          4.mr.gaotam adani")
-correctanswer = ("mr.aman gupta")
-wronganswer = ("1.mr.elun musk, 2.mr.bill gates, 4.mr.gaotam adani")
+print("Your tenth question is:\nWho is the chief minister of uttar pradesh?\n1.modi           2.akhilesh\n3.rahul          4.yogi baba")
+correctanswer = ("yogi baba")
+wronganswer = ("1.modi, 2.akhilesh, 4.rahul")
 answer1 = (input("Please enter your answer:"))
 if(answer1==correctanswer):
-    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑5000🎉🤑 rupees.")
+    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑20lakhs🎉🤑 rupees.")
 elif(answer1==wronganswer):
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")           
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 20lakhs RUPEES.")           
 else:
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 20lakhs RUPEES.")
 
 answer2 = (input("Do you want life line yes/no:"))
 ans = ("yes")
@@ -188,16 +188,16 @@ if(answer2==ans):
 elif(answer2==obj):
     print("ok")
 
-print("Your first question is:\nWho is the founder of boat ?\n1.mr.elun musk           2.mr.bill gates\n3.mr.aman gupta          4.mr.gaotam adani")
-correctanswer = ("mr.aman gupta")
-wronganswer = ("1.mr.elun musk, 2.mr.bill gates, 4.mr.gaotam adani")
+print("Your eleventh question is:\nwhat is the national sweet of india?\n1.jalebi           2.rasgulla\n3.chhena          4.kaju katli")
+correctanswer = ("jalebi")
+wronganswer = ("1.rasgulla, 2.chhena, 4.kaju katli")
 answer1 = (input("Please enter your answer:"))
 if(answer1==correctanswer):
-    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑5000🎉🤑 rupees.")
+    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑50lakhs🎉🤑 rupees.")
 elif(answer1==wronganswer):
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")           
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 50lakhs RUPEES.")           
 else:
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 50lakhs RUPEES.")
 
 answer2 = (input("Do you want life line yes/no:"))
 ans = ("yes")
@@ -207,16 +207,16 @@ if(answer2==ans):
 elif(answer2==obj):
     print("ok")
 
-print("Your first question is:\nWho is the founder of boat ?\n1.mr.elun musk           2.mr.bill gates\n3.mr.aman gupta          4.mr.gaotam adani")
-correctanswer = ("mr.aman gupta")
-wronganswer = ("1.mr.elun musk, 2.mr.bill gates, 4.mr.gaotam adani")
+print("Your twelevth question is:\nWho is enventer of bulb?\n1.thomas elva edison           2.elexander agraham bel\n3.a.p.j abdul kalam        4.subhash chandra bose")
+correctanswer = ("lion")
+wronganswer = ("1.lakadbagha, 2.kangaaro, 3.tiger")
 answer1 = (input("Please enter your answer:"))
 if(answer1==correctanswer):
-    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑5000🎉🤑 rupees.")
+    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑1crore🎉🤑 rupees.")
 elif(answer1==wronganswer):
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")           
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 1crore RUPEES.")           
 else:
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 1crore RUPEES.")
 
 answer2 = (input("Do you want life line yes/no:"))
 ans = ("yes")
@@ -226,16 +226,16 @@ if(answer2==ans):
 elif(answer2==obj):
     print("ok")
 
-print("Your first question is:\nWho is the founder of boat ?\n1.mr.elun musk           2.mr.bill gates\n3.mr.aman gupta          4.mr.gaotam adani")
+print("Your thirteenth is:\nWh ?\n1.mr.elun musk           2.mr.bill gates\n3.mr.aman gupta          4.mr.gaotam adani")
 correctanswer = ("mr.aman gupta")
 wronganswer = ("1.mr.elun musk, 2.mr.bill gates, 4.mr.gaotam adani")
 answer1 = (input("Please enter your answer:"))
 if(answer1==correctanswer):
-    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑5000🎉🤑 rupees.")
+    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑3crore🎉🤑 rupees.")
 elif(answer1==wronganswer):
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")           
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 3crore RUPEES.")           
 else:
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 3crore RUPEES.")
 
 answer2 = (input("Do you want life line yes/no:"))
 ans = ("yes")
@@ -245,16 +245,16 @@ if(answer2==ans):
 elif(answer2==obj):
     print("ok")
 
-print("Your first question is:\nWho is the founder of boat ?\n1.mr.elun musk           2.mr.bill gates\n3.mr.aman gupta          4.mr.gaotam adani")
-correctanswer = ("mr.aman gupta")
-wronganswer = ("1.mr.elun musk, 2.mr.bill gates, 4.mr.gaotam adani")
+print("Your fourteenth question is:\n what is the name of national flower of india ?\n1.chameli           2.lotus\n3.goldmarry          4.hebiscus")
+correctanswer = ("lotus")
+wronganswer = ("1.chameli, 2.goldmarry, 4.hebiscus")
 answer1 = (input("Please enter your answer:"))
 if(answer1==correctanswer):
-    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑5000🎉🤑 rupees.")
+    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑5crore🎉🤑 rupees.")
 elif(answer1==wronganswer):
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")           
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5crore RUPEES.")           
 else:
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5crore RUPEES.")
 
 answer2 = (input("Do you want life line yes/no:"))
 ans = ("yes")
@@ -264,16 +264,16 @@ if(answer2==ans):
 elif(answer2==obj):
     print("ok")
 
-print("Your first question is:\nWho is the founder of boat ?\n1.mr.elun musk           2.mr.bill gates\n3.mr.aman gupta          4.mr.gaotam adani")
-correctanswer = ("mr.aman gupta")
-wronganswer = ("1.mr.elun musk, 2.mr.bill gates, 4.mr.gaotam adani")
+print("Your first fifteenth is:\nWhat is the name of national bird of India ?\n1.banmurgi           2.gaoraya\n3.pecock          4.sparrow")
+correctanswer = ("pecock")
+wronganswer = ("1.banmurgi, 2.gaoraya, 4.sparrow")
 answer1 = (input("Please enter your answer:"))
 if(answer1==correctanswer):
-    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑5000🎉🤑 rupees.")
+    print("👏💯😮👌CONGRATULATIONS👏💯😮👌\nYour answer is 💯% right\nyou wined 🎉🤑7crore🎉🤑 rupees.")
 elif(answer1==wronganswer):
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")           
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 7crore RUPEES.")           
 else:
-    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 5000 RUPEES.")
+    print("😭SORRY😭\n❌Your answer is wrong.❌\nYOU LOST YOUR 7crore RUPEES.")
 
 answer2 = (input("Do you want life line yes/no:"))
 ans = ("yes")
@@ -282,7 +282,3 @@ if(answer2==ans):
     print("1.Do you want to call a friend.\n2.Do you to take help of audiance.\nDo you want to call your teacher.")
 elif(answer2==obj):
     print("ok")
-
-
-
-
